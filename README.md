@@ -1,7 +1,8 @@
 # TP: API sin paginacion
-**Fecha de entrega**: Miercoles 4 de Octubre - hora 23:00 hs.
+##Fecha de entrega: 
+Miercoles 4 de Octubre - hora 23:00 hs.
 
-##:fa-info-circle: Descripcion:
+##Descripcion:
 Realizar las siguientes actividades correspondientes al estudio del modelo de Biblioteca expresado en los videos de Colmena Tec
 
 ## 1️⃣ Crear el Modelo de Diagrama de Clase que se muestra en el video:
