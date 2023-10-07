@@ -18,7 +18,7 @@ public class Domicilio extends BaseEntidad{
     @Column(name="number")
     private int numero;
 
-    @ManyToOne(optional = false)
+    @ManyToOne(cascade = CascadeType.ALL)
     @JoinColumn(name="localidad_id")
     private Localidad localidad;
 }
