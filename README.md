@@ -1,4 +1,4 @@
-# TP: API sin paginacion :fa-book:
+# TP: API sin paginacion
 :fa-calendar: **Fecha de entrega**: Miercoles 4 de Octubre - hora 23:00 hs.
 
 ##:fa-info-circle: Descripcion:
